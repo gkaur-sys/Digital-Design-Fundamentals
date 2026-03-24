@@ -7,12 +7,15 @@ This folder contains Verilog implementations of basic combinational circuits.
 ### 🔹 4:1 Multiplexer
 ➡️ [View Code](./mux_4to1)
 
+### 🔹 binary to 7 segment display 
+➡️ [View Code](./binary_to_7seg)
+
 ---
 
 ## 🎯 Concepts Covered
 - Multiplexers  
-- Encoders (to be added)  
-- Decoders (to be added)  
+- Encoders  
+- Decoders
 
 ---
 
