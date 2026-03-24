@@ -10,6 +10,9 @@ This folder contains Verilog implementations of basic combinational circuits.
 ### 🔹 binary to 7 segment display 
 ➡️ [View Code](./binary_to_7seg)
 
+### 🔹 8 to 3 priority Encoder 
+➡️ [View Code](./priority_encoder_8to3)
+
 ---
 
 ## 🎯 Concepts Covered
