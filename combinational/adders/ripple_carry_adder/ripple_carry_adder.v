@@ -10,7 +10,7 @@ output cout
     
     wire c1,c2,c3;
     full_adder_dataflow fa1(a[0] , b[0] , cin , s[0] , c1);
-    full_adder_dataflow fa2(a[1] , b[1] , cin , s[1] , c2);
-    full_adder_dataflow fa3(a[2] , b[2] , cin , s[2] , c3);
-    full_adder_dataflow fa4(a[3] , b[3] , cin , s[3] , cout);
+    full_adder_dataflow fa2(a[1] , b[1] , c1 , s[1] , c2);
+    full_adder_dataflow fa3(a[2] , b[2] , c2 , s[2] , c3);
+    full_adder_dataflow fa4(a[3] , b[3] , c3 , s[3] , cout);
 endmodule
