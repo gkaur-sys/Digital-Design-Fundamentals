@@ -15,7 +15,7 @@ This implementation is created using schematic-based design instead of Verilog H
 
 ## 🧩 Block Diagram
 
-![Block Diagram](./block_diagram.png)
+![Block Diagram](./block_diagram_siso.jpeg)
 
 ---
 
